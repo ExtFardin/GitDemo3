@@ -13,4 +13,7 @@ def sell():
 
 cook("blue", 40000)
 print(sell())
+
+print("I am the one who knocks")
+
 print(say_my_name())

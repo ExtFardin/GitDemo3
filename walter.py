@@ -15,6 +15,10 @@ cook("blue", 40000)
 print(sell())
 
 print("I am the one who knocks")
+<<<<<<< HEAD
 print("I did this for me")
+=======
+print("I did this for my family")
+>>>>>>> feature/walter
 
 print(say_my_name())
